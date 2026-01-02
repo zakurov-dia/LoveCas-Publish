@@ -11,8 +11,9 @@
 
 ## 導入方法
 インストールは不要です。
-1. Releasesにあるzipファイルを任意の場所で解凍する
-2. 「LoveCas.exe」を実行する
+1. Releasesにあるzipファイルをダウンロードする
+2. ダウンロードしたzipファイルを任意の場所で解凍する
+3. 「LoveCas.exe」を実行する
 
 使い方は[Usage.md](docs/Usage.md)を参照してください。
 

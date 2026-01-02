@@ -3,6 +3,7 @@
 ## GUI
 ### プレイ画面
 ![](images/index_main.png)
+![](images/index_main_yell.png)
 
 |#|名前|説明|
 |---|---|---|
@@ -63,7 +64,8 @@
 
 ### ステータス変更ダイアログ
 
-![](images/index_status_edit.png)
+![](images/index_edit_status_member.png)
+![](images/index_edit_status_live.png)
 
 |名前|画像|説明|
 |---|---|---|
@@ -74,7 +76,7 @@
 |キャンセルボタン|![](images/button_.png)![](images/button_.png)|ステータスの変更を取りやめる。|
 
 ### デッキ編集画面
-![](images/index_edit_deck.png)
+![](images/index_deck_edit.png)
 
 |#|名前|説明|
 |---|---|---|
@@ -97,6 +99,16 @@
 |SaveAs ボタン||名前をつけて保存ボタン。ファイルを指定してデッキをファイルに保存する。<br>保存するファイル名の初期値は (yyyyMMdd_デッキ名).json|
 |フィルターボタン||フィルターダイアログを表示する。|
 |デッキ表示ボタン||現在のデッキの内容を新しいウィンドウで表示する。|
+
+### カード一覧フィルターダイアログ
+
+![](images/index_library_filter.png)
+
+
+### デッキ表示ウィンドウ
+
+![](images/index_deck_display.png)
+
 
 ## ファイル
 
