@@ -1,17 +1,25 @@
 # LoveCas
+ラブカシミュレーター(ラブカス)
 
-![](Images/.gif)
-![](Images/.gif)
-![](Images/.gif)
+![](docs/images/window_game_main.gif)
+![](docs/images/window_edit_deck.gif)
+![](docs/images/window_game main2.gif)
 
 ## 概要
-
 ラブカの一人回しをWindows上で行うツール。
 デッキ作成やワンクリックでのウィンドウキャプチャも可能。
+
+## 導入方法
+インストールは不要です。
+1. Releasesにあるzipファイルを任意の場所で解凍する
+2. 「LoveCas.exe」を実行する
+
+使い方は[Usage.md](docs/Usage.md)を参照してください。
 
 ## 環境要件
 - Windows11 (10.0.22621.0以降を推奨)
 - .Net 9
+※場合によってはC++再頒布可能ランタイムが求められる可能性があります。
 
 ## 利用条件
 - 個人でのローカルの利用は自由です。
@@ -23,7 +31,7 @@
 - 本ツールに含まれる画像やアセットを取り出しての流用は禁止です。
 
 ## 機能
-- プレイ画面 : ラブカをプレイできる
+- プレイ画面 :
     - ドラッグでカードを移動
     - ハートやスコア等の合計数を自動で計算
     - ドローやエールを簡易化
@@ -42,11 +50,12 @@
 - 共通
     - 現在のウィンドウをキャプチャして保存
 
-## License
+## その他のライセンス
 - フォント: Rounded x M+ 
 - ReactiveProperty
 - Microsoft.WindowsAppSDK
 - Microsoft.Extensions.DependencyInjection
+※本ツール内のライセンス表記も参照ください。
 
 ## 免責事項
 - 本ツールの利用による障害・損害については一切の責任を負いません。
