@@ -88,7 +88,9 @@
 |エネルギーリセットボタン|![](images/button_reset.png)|エネルギーをすべてアクティブ状態に変更する。|
 
 #### ステータス合計パネルの見方
-![](images/index_aggregate.png)
+![](images/index_heart_sum_1.png)
+![](images/index_heart_sum_2.png)
+![](images/index_heart_sum_3.png)
 
 - ブレード:  
     ステージのメンバーのブレードの数の合計。  
