@@ -1,8 +1,8 @@
 # LoveCas
 ラブカシミュレーター(ラブカス)
 
-![](docs/images/window_game_main.gif)
-![](docs/images/window_game_main_2.gif)
+![](docs/images/window_main_1.gif)
+![](docs/images/window_main_2.gif)
 ![](docs/images/window_edit_deck.gif)
 
 ## 概要
