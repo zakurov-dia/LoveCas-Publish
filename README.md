@@ -2,8 +2,8 @@
 ラブカシミュレーター(ラブカス)
 
 ![](docs/images/window_game_main.gif)
-![](docs/images/window_edit_deck.gif)
 ![](docs/images/window_game_main_2.gif)
+![](docs/images/window_edit_deck.gif)
 
 ## 概要
 ラブカの一人回しをWindows上で行うツール。
@@ -20,13 +20,14 @@
 ## 環境要件
 - Windows11 (10.0.22621.0以降を推奨)
 - .Net 9
+
 ※場合によってはC++再頒布可能ランタイムが求められる可能性があります。
 
 ## 利用条件
 - 個人でのローカルの利用は自由です。
 - 本ツールのキャプチャ・動画のWeb上への掲載は可能です。
     - これに伴う間接的な商用利用は可。商用の際はなるべく配布URL等の掲載をお願いします。
-- 再配布は一切禁止です。
+- 再配布は禁止です。
 - 本ツールをリバースエンジニアリングすることは禁止です。
 - 本ツールの改変は禁止です(ただし、データとして使用しているjsonを除く)。
 - 本ツールに含まれる画像やアセットを取り出しての流用は禁止です。
@@ -56,6 +57,7 @@
 - ReactiveProperty
 - Microsoft.WindowsAppSDK
 - Microsoft.Extensions.DependencyInjection
+
 ※本ツール内のライセンス表記も参照ください。
 
 ## 免責事項
