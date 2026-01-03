@@ -3,7 +3,7 @@
 
 ![](docs/images/window_game_main.gif)
 ![](docs/images/window_edit_deck.gif)
-![](docs/images/window_game main2.gif)
+![](docs/images/window_game_main_2.gif)
 
 ## 概要
 ラブカの一人回しをWindows上で行うツール。
