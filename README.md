@@ -56,7 +56,8 @@
     - 現在のウィンドウをキャプチャして保存
 
 ## その他のライセンス
-- フォント: Rounded x M+ 
+- フォント: Rounded x M+
+- CommunityToolkit.WinUI.Controls.Primitives
 - ReactiveProperty
 - Microsoft.WindowsAppSDK
 - Microsoft.Extensions.DependencyInjection
