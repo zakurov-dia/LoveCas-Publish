@@ -55,8 +55,13 @@
 - 共通
     - 現在のウィンドウをキャプチャして保存
 
+## 更新履歴
+
+[History](History.md)を参照ください。
+
 ## その他のライセンス
-- フォント: Rounded x M+ 
+- フォント: Rounded x M+
+- CommunityToolkit.WinUI.Controls.Primitives
 - ReactiveProperty
 - Microsoft.WindowsAppSDK
 - Microsoft.Extensions.DependencyInjection
